@@ -1,7 +1,7 @@
 @echo off
 
 rem add changes for verification test-1
-rem add changes for verification test-2
+rem add changes for verification test-3
 
 if %PROCESSOR_ARCHITECTURE% == AMD64 SET OSBIT=64
 if %PROCESSOR_ARCHITECTURE% == x86 SET OSBIT=32
